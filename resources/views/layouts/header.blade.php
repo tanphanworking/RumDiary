@@ -8,7 +8,7 @@
                 <a href="/about" class="text-gray-600 hover:text-gray-900 px-3">About Us</a>
                 <a href="/work" class="text-gray-600 hover:text-gray-900 px-3">Our Work</a>
                 <a href="/what-we-do" class="text-gray-600 hover:text-gray-900 px-3">What We Do</a>
-                <a href="/start-a-project" class="ml-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-indigo-600 hover:bg-indigo-700">
+                <a href="/start-a-project" class="ml-4 inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-slate-800 hover:bg-slate-900">
                     Start a Project
                 </a>
             </div>
